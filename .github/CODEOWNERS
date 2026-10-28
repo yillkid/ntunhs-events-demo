@@ -1,0 +1,6 @@
+# 示範用：改到這些檔案，GitHub 會自動請 @yillkid review。
+# 你自己的 repo 要換成你和組員的 GitHub 帳號。
+
+*                 @yillkid
+/tests/           @yillkid
+/.github/         @yillkid
